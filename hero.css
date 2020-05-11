@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: #F9E79F;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+
+header h1{
+	color: #F39C12;
+	font-family: 'Sigmar One', cursive;
+}
+
+header img{
+	border-radius: 150px;
+	width: 450px;
+	border: 10px solid #F39C12; 
+}
