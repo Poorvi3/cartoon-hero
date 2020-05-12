@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: 'Times New Roman', 'Arial', sans-serif;
+	font-family: 'Times new Roman', Arial, serif;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -14,13 +14,27 @@ header{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
 	border: 10px solid  #58D68D; 
 
+}
+.caption{
+	text-align: center;
+	color: grey;
+	 font-style: italic;
+	 font-size: 14px;
+	
 }
 
 header h1{
 	color: #F39C12;
+}
+	h1 {
+  text-shadow: 2px 2px #12D9F3;
+}
+main{
+	max-width: 1500px;
+	margin: 0 auto;
 }
 
 header img{
@@ -28,3 +42,14 @@ header img{
 	width: 450px;
 	border: 10px solid #F39C12; 
 }
+.mySelector {
+    width: 50%;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid #FFFFCD ;
+}
+
+
+
